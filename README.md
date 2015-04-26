@@ -1,8 +1,8 @@
-# FieldTripPermission-AngularJS
+# Field Trip Permission App
 
-##Virginie Trubiano 
+##Virginie Trubiano &  Kelly De Vries
 
-####DATE, 2015
+####April 20, 2015
 
 ###Description
 
@@ -22,4 +22,4 @@
 >Direct browser to root directory file.
 
 
-####Copyright (c) 2015 Bojana Skarich & Virginie Trubiano
+####Copyright (c) 2015  Kelly De Vries & Virginie Trubiano
